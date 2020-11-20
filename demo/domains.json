@@ -1,0 +1,20 @@
+[{
+    "name": "Physical",
+    "areas": [{
+        "name": "Knees",
+        "goals": [{
+            "description": "Bend to 90%",
+            "problem": {
+                "name": "Aerthorosis"
+            },
+            "reports": [{
+                "moment": "2020-10-26",
+                "report": "Patient is at 66%",
+                "scores": {
+                    "improvement": 7,
+                    "comfort": 4
+                }
+            }]
+        }]
+    }]
+}]
